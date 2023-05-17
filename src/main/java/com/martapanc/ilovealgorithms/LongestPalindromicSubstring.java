@@ -2,6 +2,8 @@ package com.martapanc.ilovealgorithms;
 
 public class LongestPalindromicSubstring {
 
+    // https://leetcode.com/problems/longest-palindromic-substring/description/
+
     public static String compute(String input) {
         int length = input.length();
 
